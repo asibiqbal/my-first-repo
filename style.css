@@ -1,13 +1,16 @@
-h2 , h3{
+h2,
+h3 {
     color: blue;
     background-color: aqua;
     padding: 10px 10px;
 }
-p{
+
+p {
     color: aqua;
     background-color: blue;
     padding: 10px 10px;
 }
-body{
+
+body {
     font-family: lato;
 }
