@@ -1,0 +1,10 @@
+h2{
+    color: blue;
+    background-color: aqua;
+    padding: 10px 10px;
+}
+p{
+    color: aqua;
+    background-color: blue;
+    padding: 10px 10px;
+}
